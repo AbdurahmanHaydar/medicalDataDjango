@@ -14,8 +14,6 @@ This is the backend for the medical records management system.
 
 
 git clone https://github.com/AbdurahmanHaydar/medicalDataDjango.git
-cd medidata
-
 
 2. **Set up a Python Virtual Environment (Optional but recommended)**
 
