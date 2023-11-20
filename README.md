@@ -44,9 +44,11 @@ This will start the development server on http://127.0.0.1:8000/.
 
 ## Running Tests
 
-To run tests with pytest, use the following command:
+To run tests with pytest, use the following commands:
 
-pytest
+$export DJANGO_SETTINGS_MODULE=medidata.settings
+
+$pytest
 
 
 ## Additional Notes
