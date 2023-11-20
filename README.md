@@ -15,9 +15,12 @@ This is the backend for the medical records management system.
 
 git clone https://github.com/AbdurahmanHaydar/medicalDataDjango.git
 
+cd medicalDataDjango
+
 2. **Set up a Python Virtual Environment (Optional but recommended)**
 
 python3 -m venv venv
+
 source venv/bin/activate
 
 
